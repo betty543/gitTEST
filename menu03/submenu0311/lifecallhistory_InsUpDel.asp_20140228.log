@@ -1,0 +1,11 @@
+This is First Line
+2014-02-28 오전 10:51:42; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2014020067'		,	'2014-02-28'		,	'2014-02-28 10:48:47'		,	'1'		,	'N'		,	'2012010205'		,	'장금례'		,	'anonymous$inroot=0179'		,	''		,	'anonymous'		,	'1'		,	''		,	'A'		,	''		,	''		,	'F'		,	''		,	''		,	''		,	''		,	'P09'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'*2/8, 26일 2회에 걸쳐 인터넷 비밀상담실을 통해 도움을 요청한 주대일 이병 연계 위한 통화.
+
+- 연계 내용: 해당 병사가 2회에 걸쳐 사이버 상담을 했으며 관계의 문제라기 보다는 군대 자체의 시스템, 군인이라는 신분에 대한 불안함으로 우울감과 
+                    여러 가지 신체적 증상을 겪고 있는 것으로 보아 상담관님의 도움이 절대적으로 필요할 것으로 판단 돼 연계하게 되었음을 안내 함.
+                    병사에게는 생명의 전화를 통해서 도움을 요청한 것에 대해 비밀로 한 상태로 조심스럽게 만날 수 있도록 도움을 요청하겠다고 한 내용을 밝히며
+                    되도록이면 신병 면담 등의 방법을 통하여 상담해 줄 것을 제안.
+- 연계 반응: 본 상담관의 안내를 경청하며 조심스럽게 만나보겠음을 전하고, 연계에 대해 고마움을 표현 함.
+
+
+'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'1001751952'		,	''		,	'00:05:29'		,	'329'		,	''		,	'2014021008'		,	'2'		,	''		,	'life19'		,	GETDATE()		,	'life19'		,	GETDATE())

@@ -1,0 +1,5 @@
+This is First Line
+2009-08-14 오후 9:03:29; SQL1=Insert Into TB_TransferInfo (DNIS,StartTime,EndTime,Transferno,mon,tue,wed,thu,fri,sta,sun,holiday,useyn,userid) values ('6979','1900','0600','1833','0','0','0','0','0','1','0','0','0','life03')
+2009-08-14 오후 9:03:59; SQL2=update TB_TransferInfo Set DNIS ='6979',StartTime = '1900',EndTime = '0600',Transferno = '01050721833',mon = '0',tue = '0',wed = '0',thu = '0',fri = '0',sta = '1',sun = '0',holiday = '0',USEYN = '0',userid = 'life03'  WHERE seqno = '9'
+2009-08-14 오후 9:04:59; SQL2=update TB_TransferInfo Set DNIS ='9191',StartTime = '0000',EndTime = '0900',Transferno = '01050721833',mon = '0',tue = '0',wed = '0',thu = '0',fri = '1',sta = '1',sun = '0',holiday = '0',USEYN = '1',userid = 'life03'  WHERE seqno = '6'
+2009-08-14 오후 9:06:15; SQL2=update TB_TransferInfo Set DNIS ='9191',StartTime = '1900',EndTime = '0600',Transferno = '01050721833',mon = '0',tue = '0',wed = '0',thu = '0',fri = '1',sta = '1',sun = '0',holiday = '0',USEYN = '1',userid = 'life03'  WHERE seqno = '6'

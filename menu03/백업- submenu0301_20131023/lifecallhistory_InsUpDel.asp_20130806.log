@@ -1,0 +1,27 @@
+This is First Line
+2013-08-06 오전 5:40:23; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2013080213'		,	'2013-08-06'		,	'2013-08-06 05:39:43'		,	'1'		,	'N'		,	'2012100441'		,	'미상(닉네임:후회)'		,	'anonymous@anonymous.invalid:5060'		,	''		,	'anonymous'		,	'1'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'P01E'		,	''		,	''		,	''		,	'Q07'		,	''		,	''		,	''		,	''		,	'안내 멘트 후 아무 소리도 들리지 않아 다시 전화할 수 있도록 안내함.'		,	''		,	''		,	''		,	''		,	''		,	''		,	'B'		,	'1001645261'		,	''		,	'00:00:31'		,	'31'		,	''		,	'2013080213'		,	'1'		,	''		,	'life18'		,	GETDATE()		,	'life18'		,	GETDATE())
+2013-08-06 오전 11:25:25; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2013080226'		,	'2013-08-06'		,	'2013-08-06 11:17:10'		,	'1'		,	'N'		,	'2013080181'		,	'권대령'		,	'01050727315@1.1.147.111:5060'		,	''		,	'01050727315@1.1.147.111:5060'		,	'1'		,	''		,	''		,	''		,	''		,	'E'		,	'E03'		,	''		,	''		,	''		,	'P02'		,	'P025'		,	'P025O'		,	'E'		,	'O23'		,	'O23A'		,	'Q99'		,	'Q991'		,	'G'		,	''		,	''		,	'* 공군작전사령부 인사'		,	''		,	''		,	''		,	''		,	''		,	''		,	'B'		,	''		,	'http://1.1.147.31:8080/201308/0602/10/Call_1001645363_1001645365.wav'		,	'00:02:46'		,	'166'		,	''		,	'2013080226'		,	'1'		,	''		,	'life19'		,	GETDATE()		,	'life19'		,	GETDATE())
+2013-08-06 오후 3:50:28; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2013080243'		,	'2013-08-06'		,	'2013-08-06 15:26:24'		,	'1'		,	'N'		,	'2013080197'		,	'송하선'		,	'01053065033@1.1.147.111:5060'		,	''		,	'01053065033@1.1.147.111:5060'		,	'1'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q01'		,	'Q01C'		,	''		,	''		,	''		,	'지난번에 국방부 장관님과 대화에 올린 적이 있는
+군대에 306제3야수교 상담을 상담을 많이 5사단35연대 간뒤에 부적응하고 공황장애로 고생하고 이
+그린 비전캠흐도 다녀온 전역 심사 서류를 심의 통과가 되었는데
+사령부에서 부적격으로 다시 다른 부대로 재배치된다 함.
+용인에서 사령부로 가다 일반병과 행보관이 왔는데 평소에 행보관에게 스트레스를 받아왔었음.
+행보관이 병사에게 욕하면서 위협하여 겁먹어서 화장실에가서 양주병원에서 모은 안정제를 한꺼번에 십여알은 먹었다 하.
+백병원에서 응급처치로 50여만원이 나옴.약물중독반응은 없고 양주병원으로 가라함.
+일반병원에서 특별한 것이 없으면 국군 병원에 있을 수 없어 의무대에서 링겔꽂고 
+다시 조서를 쓰는데 약안먹었잖아 계속 다시 쓰라고 3~4번 쓰라 함.
+병원에서 반응이 없다잖아 하며 재욱
+의무반에 링겔을 맞으면 식사를 못하니 식사르 ㄹ갖ㄷㅏ줘야 하는데 안갖다주고 있어 물어보니
+친구들말이 걔가  대장님에게 전화하여 말하니 조치하겠다하여 
+자살시도 해서 35연대 내에서 징계위원회에서 영창15일을 받고 다시 조정되어7일로 변경되어 갔음.
+연대장님도 처음한 것이고 욱한 것으로 한것이므로 참작해서 잘 처리하겠다고 하는데 결국 영창가서 너무 화가나고 속상함.
+정신 병자가 아니고 군대에서 관리를 잘 생활을 잘하도록 도와주시면 
+조울증이 심해서 기분좋다가도 갑자기 힘들어하는 모습을 보니 너무 걱정되는데
+처벌이 너무 강하다는 생각이 들고 많이 참았음. 
+군의관이 불러서 이야기를 듣고 싶다는데 사정을 해도 1분도 안만나 주더라
+국방부에 민원을 올렸음.
+아들이 불안한 상황에서 약먹은 계기가 행보관이 욕하고 
+생명의 전화이후 
+더화가나는 것은 오늘 영창을 들어갈 때
+옥죄어 오면 행보관님은 싫고 대대장님은 좋고 진실을 밝히고 싶어서
+3군사령부에서 5사단 송재욱 상   '		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'1001645448'		,	''		,	'00:24:19'		,	'1459'		,	''		,	'2013080243'		,	'1'		,	''		,	'life06'		,	GETDATE()		,	'life06'		,	GETDATE())

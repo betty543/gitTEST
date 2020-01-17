@@ -1,0 +1,18 @@
+This is First Line
+2014-02-05 오후 12:57:32; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2014020015'		,	'2014-02-05'		,	'2014-02-05 12:40:28'		,	'1'		,	'N'		,	'2014020144'		,	'우지은(대위)'		,	'01020439888$inroot=0179'		,	''		,	'01020439888'		,	'1'		,	''		,	'C'		,	''		,	''		,	'E'		,	'E01'		,	'E0105'		,	'E010509'		,	''		,	'P02'		,	'P025'		,	'P025E'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'* 병영생활 담당하고 있는 운영과장임.
+
+- 한재현 상병 관련하여 정보공유 위해 전화를 하였음. 병사가 언제부터 상담을 시작했고, 어떤 내용인지를 알고 싶음.
+  유별나게 월등하게 군 생활을 잘하고 있는 병사였으나 최근 주변 사람이 바뀐 것 외에는 다른 이상이 없었음에도
+  최근에 어떤 사항으로 스트레스를 받고 있으며 힘들어 하고 있는지를 그 내용을 알면 도움이 될 것 같아서 전화를 했음.
+  워낙 문제가 없는 병사였기 때문에 문의 전화를 했음.
+
+* 병사에게 개인내적인 문제가 있으며 이것을 간부님이 알면 오히려 병사에게도 도움이 될 것이나
+    이것을 상담관이 open하기에는 제한되는 부분이 있음에 양해를 구하고,
+    병영생활 간 문제가 군의 체제에 관한 문제가 아니므로 염려를 하지 말 것과
+    해부대 병영생활 전문상담관과의 상담을 통해 병사가 자신의 문제를 보다 객관적으로 관찰할 수 있다면
+    인지능력이 좋고, 성찰능력이 있으므로 빠르게 회복될 수 있음을 알리며 해부대 상담관에게 상담을 연계할 것을 제안.
+    생명의 전화에서 병사를 상담관에게 연계를 할 수도 있으나 병사와 이 부분을 구체적으로 논의하지 않았음에 신뢰가 깨질까 염려됨을 전하며
+    병사가 최근 전화상담에서 자신을 간부님들이 염려하고 있음을 전한바 있으니 이를 이용하여 간부님이 병사에게 상담을 적극적으로 권해 볼 것을 제안 함.
+    간부님의 제안에도 병사가 망설이거나 상담을 하지 않는다면 그 때에는 생명의 전화에서 상담관님이 자연스럽게 만나 볼 것을 요청하며 연계하기로 함.
+
+'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'1001743236'		,	''		,	'00:15:31'		,	'931'		,	''		,	'2014011150'		,	'2'		,	''		,	'life19'		,	GETDATE()		,	'life19'		,	GETDATE())

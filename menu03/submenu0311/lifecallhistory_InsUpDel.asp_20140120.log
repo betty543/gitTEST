@@ -1,0 +1,13 @@
+This is First Line
+2014-01-20 오후 3:19:58; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2014010044'		,	'2014-01-20'		,	'2014-01-20 15:05:23'		,	'1'		,	'N'		,	'2014010686'		,	'최윤덕'		,	'01087929191$inroot=0179'		,	''		,	'01087929191'		,	'1'		,	''		,	'A'		,	''		,	''		,	'F'		,	''		,	''		,	''		,	''		,	'P09'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'* 1/15, 16, 17일 3회에 걸쳐 사이버 상담을 통해 어려움을 호소하였고, 오늘(20일) 또 다시 어려움을 호소하며 자살밖에 방법이 없다고 하는
+    정창환(닉네임: 해전시) 병사를 연계하기 위한 통화.(4번의 전화가 연결되지 않았으나 최윤덕 상담관님이 전화를 하여 통화가 됨.)
+
+- 연계내용: 4회에 걸쳐 사이버 상담을 통해 보직관련하여 선임들과의 갈등을 호소했음을 안내 함.
+                    행정병으로 보직이동을 하는 과정에서 기존에 근무하던 선임과 다른 병사들에게 따돌림을 당하고 있음을 호소한 점과
+                    폭언이 있었음에도 이를 증명할 방법이 없어 더욱 속상해하며
+                    특히 오늘은 자살 밖에 답이 없음을 호소하는 병사와 자연스럽게 만나 상담을 해 볼 것을 제안.
+
+- 연계반응: 병사 연계에 대해 감사의 마음을 표현했으며 병사에 대해 질문을 하는 등 적극적으로 상담하고자 하는 모습이 인지 됨.
+                    또한 해당 병사에게 어떤 것이 도움이 될지를 본 상담관에게 묻는 등 상담을 공유하여 필요한 도움을 주려 하였음.
+
+'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'1001736734'		,	''		,	'00:13:36'		,	'816'		,	''		,	'2014010806'		,	'2'		,	''		,	'life19'		,	GETDATE()		,	'life19'		,	GETDATE())

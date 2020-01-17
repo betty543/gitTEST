@@ -1,0 +1,9 @@
+This is First Line
+2013-03-27 오전 12:47:29; ERROR_SQL= UPDATE TB_LIFECALLHISTORY_OB SET 		JUBDATE = '2013-03-26'	,	JUBTIME  = '2013-03-26 16:47:10'	,	IOFLAG = '1'	,	EMERYN = 'N'	,	CUSTNO = '2013030816'	,	CUSTNAME  = '김수현(1군수지원사령부 정비대대)'	,	TELNO = '01050808009'	,	TELNO2 = ''	,	SEXGB = '1'	,	CHANNELGB = ''	,	REQUESTERGB = 'A'	,	CONSULTGB = ''	,	CONSULTETCGB = ''	,	SOSOKGB_A = 'B'	,	SOSOKGB_B = 'B03'	,	SOSOKGB_C = 'B0309'	,	SOSOKGB_D = ''	,	SOSOKGB_E = ''	,	LEVEL_B = 'P01'	,	LEVEL_C = 'P01E'	,	LEVEL_D = ''	,	FAMILYGB = ''	,	CALLCLASS_B = ''	,	CALLCLASS_C = ''	,	CHANNELGB_B = ''	,	CHANNELGB_C = ''	,	CALLFLAG = ''	,	CALLKIND_B = 'G'	,	CALLKIND_C = ''	,	QUESTION = ' -  03.24 연계조치 건(생활관 동기 9명의 인권침해-언어 물리적 폭력 및 성희롱에 더이상 견딜 수 없어 부대 전출을 희망하는 상병 구남주 건) 의 후속확인 이해 구함
+=> 지휘관리
+3월 25일에 전문상담관이 대대장에게 개략적인 내용으로 메일 발송. 3월 26일 오전 대대장 면담시 생명의 전화 연계조치 내용으로 논의함. 이에 대대장이 헌병대에 자문을 구하여 
+상병 구남주를 기 생활관에서 분리할 목적으로 타중대로 이동시키고, 참모부의 간부가 보호관리 하도록 조치함. 
+전문상담관은 상병 구남주가 가해자들의 보복 위협을 극도로 두려워하여 부대 전출을 요하는 심리적 상황이 충분히 고려되어야 함을 대대장에게 조언함. 
+가해자 중 입대전 폭력 관련 전과기록이 있는 병사가 2명 포함되어 있어 해부대에서는 전과기록 병사들이 본 사례 관련하여 부적 영향을 끼쳤을 것으로 보며 전반적 사실 확인 조사를 진행중임. 
+부대의 요청이 없었기 때문에 전문상담관과 상병 구남주의 상담은 실시되지 않았음.(82정비대대는 현재까지 민간상담원이 병사들을 상담하고 있어 병영생활 전문상담관을 홍보하는 시기임) 
+전문상담관이 대대장에게 병사와의 상담 필요성을 언급하였으므로 상병 구남주와의 상담이 예상되며 이후 진행 및 조치사항에 대해 생명의 전화 상담관에게 연락할 예정임'	,	REPLY = ''	,	REMARK = '(82정비대대 4중대)'	,	RESULTGB = ''	,	PROCESSGB = ''	,	WEATHER = ''	,	CALLID = ''	,	RECORDFILE =''	,	CALLTIMEDP ='00:15:37'	,	CALLTIME = '937'	,	CB_SEQ = '0'	,	REFERJUBSEQ = '2013030906'	,	REFCNT = '2'	,	FILENAME = ''	,	MOCODE = 'life16'	,	MODATE = GETDATE()		where JUBSEQ = '2013030051'

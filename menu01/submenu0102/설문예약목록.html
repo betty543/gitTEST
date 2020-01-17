@@ -1,0 +1,161 @@
+<!-- #include virtual="/Include/Top.asp" -->
+<table border="0" width="1200" cellpadding="0" cellspacing="3" bgcolor="#EFECE5" align="center">
+	<tr bgcolor="#FFFFFF">
+		<td>
+		
+			<form method="post" name="inUpFrm" style="margin:0">
+			<input type="hidden" name="QueryYN" value="">
+			<table width="100%" border="0" cellspacing="1" cellpadding="1" align="center" bgcolor="#CCCCCC">
+
+			    <tr>
+					<td bgcolor="#EFEFEF" class="TDCont">구분</td>
+					<td bgcolor="#FFFFFF" colspan=3>
+						<input type="radio" name="sUSEYN" value="Y" class="none" onClick="fn_YES();" checked > 금일예약목록
+						<input type="radio" name="sUSEYN" value="N" class="none" onClick="fn_YES();" > 진행목록
+					</td>
+			        <td width="110" bgcolor="#EFEFEF" class="TDCont">조회기간 :</td>
+			        <td  bgcolor="#FFFFFF" colspan=3>
+			        	<input value="2009-01-01" name="FromDate" readonly type="text" size="10" onfocus="setFocusColor(this);" onClick="new CalendarFrame.Calendar(this);" onblur="setOutColor(this);">
+				    	~
+				    	<input value="2009-03-31" name="ToDate" readonly type="text" size="10" onfocus="setFocusColor(this);" onClick="new CalendarFrame.Calendar(this);" onblur="setOutColor(this);">	
+			        </td>
+			        <td colspan='2' rowspan="2" bgcolor="#FFFFFF" align="center">
+			        	<img src="/Images/Btn/BtnSearch.gif" style="cursor:hand;" onClick="goSearch(document.inUpFrm);">
+			        	<%IF SS_Login_Secgroup="A" Or SS_Login_Secgroup="B" THEN%><br><br><img src="/Images/Btn/BtnExcel.gif" style="cursor:hand;" onClick="fn_Xls();"><%END IF%>
+			        </td>
+				</tr>
+			    <tr>
+
+			        <td width="110" bgcolor="#EFEFEF" class="TDCont">사건번호 :</td>
+			        <td bgcolor="#FFFFFF">
+			        	<input value="" name="FromDate" readonly type="text" size="10" onfocus="setFocusColor(this);" onClick="new CalendarFrame.Calendar(this);" onblur="setOutColor(this);"></td>
+			        <td width="110" bgcolor="#EFEFEF" class="TDCont">소속 :</td>
+			        <td bgcolor="#FFFFFF">
+
+			        	<select name="whereCD1" size="1" class="ComboFFFCE7">
+							<option value="">선택선택</option>
+						</select>
+					</td>
+			        <td width="110" bgcolor="#EFEFEF" class="TDCont">피의자명 :</td>
+			        <td bgcolor="#FFFFFF">
+			        	<input value="" name="FromDate" readonly type="text" size="10" onfocus="setFocusColor(this);" onClick="new CalendarFrame.Calendar(this);" onblur="setOutColor(this);"></td>
+
+			        <td width="110" bgcolor="#EFEFEF" class="TDCont">담당수사관 :</td>
+			        <td bgcolor="#FFFFFF">
+
+			        	<select name="whereCD1" size="1" class="ComboFFFCE7">
+							<option value="">선택</option>
+						</select>
+					</td>
+
+
+
+			    </tr>
+			</table>
+			</form>
+		</td>
+	</tr>
+</table>
+
+<table width="1200" height="5" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td></td></tr></table>
+
+<table width="1200" border="0" cellspacing="1" cellpadding="1" align="center" bgcolor="#CCCCCC">
+	<tr height="20" bgcolor="#EEF6FF" align="center">
+		<td rowspan=2>No</td>
+		<td rowspan=2>사건번호</td>
+		<td rowspan=2>예약정보</td>
+		<td rowspan=2>사건명</td>
+		<td rowspan=2>첨부물<br>유무</td>
+		<td rowspan=2>출처일자</td>
+		<td colspan=3>담당수사관</td>
+		<td colspan=3>연락처유무</td>
+		<td rowspan=2>관리</td>
+	</tr>
+	<tr height="20" bgcolor="#EEF6FF" align="center">
+		<td >소속</td>
+		<td >계급</td>
+		<td >성명</td>
+		<td >피의자</td>
+		<td >피해자</td>
+		<td >지휘관</td>
+	</tr>
+	<tr><td colspan="17" height="1" bgcolor="#FFFFFF"></td></tr>
+
+
+	<tr id="cTR1" style="cursor:hand;" bgcolor="#ffffff" >
+
+			<td align="center">1</td>
+			<td align="center">0000000000</td>
+			<td align="center">피의자(오후2시)</td>
+			<td align="center">군기사고-폭행</td>
+			<td align="center"><img src="/Images/Btn/icon_02.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center">2009-01-01</td>
+			<td align="center">ㅇㅇ군단헌병대</td>
+			<td align="center">ㅇㅇ</td>
+			<td align="center">ㅇㅇㅇ</td>
+			<td align="center"><img src="/Images/Btn/icon_02.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center"><img src="/Images/Btn/icon_02.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center"><img src="/Images/Btn/icon_02.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center">
+				<img src="/Images/Btn/BtnIconModify.gif" title="수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+				<img src="/Images/Btn/BtnIconDel.gif" title="삭제" style="cursor:hand;" align="absmiddle"onclick="javascript:fn_del('1111','DEL');">
+			</td>
+	</tr>
+	<tr id="cTR1" style="cursor:hand;" bgcolor="#ffffff" >
+
+			<td align="center">2</td>
+			<td align="center">0000000000</td>
+			<td align="center">피해자(오전8시)</td>
+			<td align="center">안전사고-차량-교통사고,도로교통법우반</td>
+			<td align="center"><img src="/Images/Btn/icon_02.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center">2009-01-11</td>
+			<td align="center">ㅇㅇ군단헌병대</td>
+			<td align="center">ㅇㅇ</td>
+			<td align="center">ㅇㅇㅇ</td>
+			<td align="center"><img src="/Images/Btn/icon_02.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center"><img src="/Images/Btn/icon_02.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center"><img src="/Images/Btn/icon_03.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center">
+				<img src="/Images/Btn/BtnIconModify.gif" title="수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+				<img src="/Images/Btn/BtnIconDel.gif" title="삭제" style="cursor:hand;" align="absmiddle"onclick="javascript:fn_del('1111','DEL');">
+			</td>
+	</tr>
+	<tr id="cTR1" style="cursor:hand;" bgcolor="#ffffff" >
+
+			<td align="center">3</td>
+			<td align="center">0000000000</td>
+			<td align="center">피해자(오전10시)</td>
+			<td align="center">안전사고-차량-교통사고,도로교통법우반</td>
+			<td align="center"><img src="/Images/Btn/icon_02.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center">2009-02-20</td>
+			<td align="center">ㅇㅇ군단헌병대</td>
+			<td align="center">ㅇㅇ</td>
+			<td align="center">ㅇㅇㅇ</td>
+			<td align="center"><img src="/Images/Btn/icon_02.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center"><img src="/Images/Btn/icon_02.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center"><img src="/Images/Btn/icon_02.gif" style="cursor:hand;" align="absmiddle"></td>
+			<td align="center">
+				<img src="/Images/Btn/BtnIconModify.gif" title="수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+				<img src="/Images/Btn/BtnIconDel.gif" title="삭제" style="cursor:hand;" align="absmiddle"onclick="javascript:fn_del('1111','DEL');">
+			</td>
+	</tr>
+
+
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="1200" align="center">
+	<tr><td height="5"></td></tr>
+	<tr><td height="1" bgcolor="#D6D6D6"></td></tr>
+	<tr height="22" bgcolor="#EEF6FF"><td align="center">1  2  3  4  5  6</td></tr>
+	<tr><td height="1" bgcolor="#D6D6D6"></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="1200" align="center">
+	<tr><td height="5"></td></tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="1200" align="center">
+	<tr><td><iframe frameborder=0 marginheight=0 marginwidth=0 width="100%" height="0" scrolling="no" name="AsInfo1fr"></iframe></td></tr>
+</table>
+
+</body>
+</html>

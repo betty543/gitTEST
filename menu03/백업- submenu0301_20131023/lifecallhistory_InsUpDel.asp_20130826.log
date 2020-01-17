@@ -1,0 +1,7 @@
+This is First Line
+2013-08-26 오전 8:14:58; ERROR_SQL= UPDATE TB_LIFECALLHISTORY SET 		JUBDATE = '2013-08-26'	,	JUBTIME  = '2013-08-26 07:33:52'	,	IOFLAG = '1'	,	EMERYN = 'N'	,	CUSTNO = '2013030809'	,	CUSTNAME  = '상병 이우진과 김태산 행정보급관'	,	TELNO = '0315428704'	,	TELNO2 = ''	,	SEXGB = '1'	,	CHANNELGB = '0179'	,	REQUESTERGB = 'A'	,	CONSULTGB = ''	,	CONSULTETCGB = ''	,	SOSOKGB_A = 'B'	,	SOSOKGB_B = 'B07'	,	SOSOKGB_C = 'B0723'	,	SOSOKGB_D = ''	,	SOSOKGB_E = ''	,	LEVEL_B = 'P01'	,	LEVEL_C = 'P01E'	,	LEVEL_D = 'P01E'	,	FAMILYGB = 'F'	,	CALLCLASS_B = 'O19'	,	CALLCLASS_C = 'O19A'	,	CHANNELGB_B = 'Q01'	,	CHANNELGB_C = 'Q01C'	,	CALLFLAG = 'G'	,	CALLKIND_B = 'R01'	,	CALLKIND_C = ''	,	QUESTION = '상병 2호봉 됐음.  
+<못 버티는 이유?>
+8월에 현부심을 한다고 했었음. 가만히 놨으면 되는데 소리 질러서 계속 말하고, 맞선임 상병이 씻으라고 해서 씻었다고 했는데 소리 지르니까 나도 빡쳐서 씻었지 않냐?고 하고 
+의무대 있는다고 뭐라고 함. PX옆 공중전화에 억지로 소대장님께 부탁을 해서 같이 줬던 것임. 병원 
+부모님 모두 "그냥 나와라" 6월에 국군양주병원에 입원했을 때는 얘기 없으셨다가 이번 8월 2일에 말씀하심. 휴가 나가서 민간병원에 입원하고 싶음. '	,	REPLY = '- 지난 금요일 캠프 퇴소. 에 현부심 올린다고 대인관계, 내무생활 양주병원에 한 달간  입원하여 관찰, 진단받음. 고2때 한달간 우울증 입원경력 있음. 선임병이 되면 나을 줄 알았는데
+  내일 양주병원 군의관 소견 씻는 문제 '	,	REMARK = ''	,	RESULTGB = ''	,	PROCESSGB = 'A'	,	WEATHER = 'A'	,	CALLID = '1001653257'	,	RECORDFILE ='http://1.1.147.31:8080/201308/2522/30/Call_1001653257_1001653259.wav'	,	CALLTIMEDP ='00:35:30'	,	CALLTIME = '2130'	,	CB_SEQ = '0'	,	REFERJUBSEQ = '2013081022'	,	REFCNT = '1'	,	FILENAME = ''	,	MOCODE = 'life16'	,	MODATE = GETDATE()		where JUBSEQ = '2013081022'

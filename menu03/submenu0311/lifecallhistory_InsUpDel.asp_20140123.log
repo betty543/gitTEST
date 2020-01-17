@@ -1,0 +1,8 @@
+This is First Line
+2014-01-23 오후 8:04:35; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2014010058'		,	'2014-01-23'		,	'2014-01-23 19:53:48'		,	'1'		,	'N'		,	'2014010804'		,	'차영은(군수사)'		,	'01050862100'		,	''		,	'01050862100$inroot=13031'		,	'1'		,	''		,	'A'		,	''		,	''		,	'F'		,	''		,	''		,	''		,	''		,	'P09'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'G'		,	''		,	'**[1.23 비밀상담실 11탄약창 상병 황우람(에이맨) 해부대 상담관 연계조치 결과]
+*결과=>11탄약창 4경비중대 상병  황우람 확인을 하였음. 
+               해당 대장과 통화를 했으며 병사는 작년 12월 그린캠프참여 했었고 부대차원에서 많이  배려하고 있는 상태로 훈련인데도 불구하고 입실을 시켜서 보호하기도 함.
+               그러나 구체적인 병사들간 관계에서는 인지되지 못한 부분 있을 것 같다함.
+               중대장에게 병사의 현재 징후를 전달하여 잘 살펴주고 내일 오후에 상담지원 가능함을 전달 하였음. 
+*전달=>해부대 지원이 적극적이긴 하나 그외의 병사간 갈등과 부정적 시선등으로 힘든 상황이며, 병사가 적극적으로 면담을 하는 모습이나 그 만큼 지치고 무의함을 느끼고 있는 점 참고토록 함.
+       '		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'1001738094'		,	''		,	'00:06:36'		,	'396'		,	''		,	'2014010935'		,	'2'		,	''		,	'life06'		,	GETDATE()		,	'life06'		,	GETDATE())

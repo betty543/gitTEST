@@ -1,0 +1,222 @@
+
+<!-- #include virtual="/Include/Top.asp" -->
+
+<table width="940" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tr valign="top" height="450">
+
+		<td width="340">
+
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        		<tr><td height="22" colspan="2" class="FBlk">◈ <b>그룹</b></td><td colspan="5" align="right" height=28><img src="/Images/Btn/BtnAdd.gif" title="그룹추가" style="cursor:hand;" align="absmiddle" onClick="ShowPOPLayer('smsgroup_detail.asp?gubun=ins','520','350');"></td></tr>
+        	</table>
+			<DIV style="OVERFLOW-Y:auto; OVERFLOW-X:auto; MARGIN: 0px 0px 0px 0px; 500; HEIGHT:420;">
+        	<table width="100%" border="0" cellspacing="1" cellpadding="1" bgcolor="#CCCCCC">
+        		<tr height="20" bgcolor="#EEF6FF" align="center">
+        			<td>NO</td>
+        			<td>구분</td>
+        			<td>그룹명</td>
+        			<td>사용여부</td>
+        			<td align='center'>관리</td>
+        		</tr>
+        		<tr><td colspan="5" height="1" bgcolor="#FFFFFF"></td></tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">1</td>
+					<td align="center">개인</td>
+					<td align="center">친구</td>
+					<td align="center">사용</td>
+					<td align="center" width="60">
+							<img src="/Images/Comm/IconHome.gif" title="목록보기" style="cursor:hand;" align="absmiddle" onclick="ListFrame.location.href='smsgroup_addresslist.asp?smsgroupid=<%=smsgroupid%>&smsgroupname=개인-친구';">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+					<td align="center" width="60">
+							<img src="/Images/Comm/IconHome.gif" title="목록보기" style="cursor:hand;" align="absmiddle" onclick="ListFrame.location.href='smsgroup_addresslist.asp?smsgroupid=<%=smsgroupid%>&smsgroupname=공통-긴급발령';">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">3</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+				<tr onmouseover="this.style.background='#FFFCE7'" bgcolor="#FFFFFF" onmouseout="this.style.background='#FFFFFF'">
+					<td align="center">2</td>
+					<td align="center">공통</td>
+					<td align="center">긴급발령</td>
+					<td align="center">사용</td>
+
+					<td align="center">
+							<img src="/Images/Btn/BtnIconModify.gif" title="그룹수정" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','UP');">
+							<img src="/Images/Btn/BtnIconDel.gif" title="그룹삭제" style="cursor:hand;" align="absmiddle" onclick="javascript:fn_update('1111','DEL');">
+					</td>
+				</tr>
+			</table>
+			</DIV>
+		</td>
+		<td width="10"></td>
+		<td width="590">
+			<iframe src="smsgroup_addresslist.asp" name="ListFrame" width="100%" height="100%" frameborder=0 marginheight=0 marginwidth=0 scrolling="no"></iframe>
+
+		</td>
+
+	</tr>
+	<tr>
+	<td colspan=3>
+		<table width="940" border="0" cellspacing="0" cellpadding="0">
+			<tr><td height="22" colspan="2" class="FBlk"></b></td></tr>
+		</table>			
+		<table width="940"  border="0" cellspacing="1" cellpadding="1" bgcolor="#CCCCCC">
+			<tr bgcolor="#EEF6FF" height="40" align=center><td height="22" colspan="2" class="FBlk" align="center"> 선택한 대상을
+						<select name="whereCD1" size="1" class="ComboFFFCE7">
+							<option value="">개인-친구</option>
+						</select>에 
+						<input type="button" name="BtnPlay" value="추가하기" style="width:120; height:24;" class="Btn3" onClick="javascript:fn_Player();">  또는 <input type="button" name="BtnPlay" value="이동하기" style="width:120; height:24;" class="Btn3" onClick="javascript:fn_Player();"></b></td></tr>
+		</table>
+	</td>
+	</tr>
+</table>
+
+<!-- #include virtual="/Include/PopLayer.asp" -->
+<!-- #include virtual="/Include/Bottom.asp" -->
+
+<script>
+<!--
+	function fn_update(arg0, arg1){
+		//sms그룹 수정
+	}
+//-->
+</script>

@@ -1,0 +1,253 @@
+This is First Line
+2012-04-10 오후 5:19:25; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	'080-00'		,	''		,	''		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'G'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:19:59; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	'080-00'		,	''		,	''		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'G'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:21:51; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	'080-00'		,	''		,	''		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'G'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:22:00; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	'080-00'		,	''		,	''		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:22:19; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:22:21; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:22:48; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:23:42; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:30:03; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:31:03; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:31:08; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:32:33; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'08000'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:35:26; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:35:42; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:36:01; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:36:29; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:07:03'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'사이버 상담(18:29) 관련하여  특정인원에 대한 처벌을 원하고 있는 
+병사에 대한 부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 
+이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 
+여부에 대해 사실 확인을 요청함.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 
+다시 연락을 주겠다고 함.
+병사의 고통을 조금이나마 해소하고 
+사례의 입체적 관리를 위해 지속적으로 협조해주실 것을 부탁드림.
+
+'		,	''		,	'해부대 지휘관(대대장)과 사례 연계'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:41:03; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:38:17'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'4월 9일 사이버 상담(18:29) 관련하여 
+특정인원에 대한 처벌을 원하고 있는 병사에게 도움을 주기 위해
+부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 여부를 
+살펴보기 위해 사실 확인 요청.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 알려주겠다고 함.
+병사의 고통을 조금이나마 해소하고 사례의 입체적 관리를 위해 
+지속적으로 협조해주실 것을 부탁드림.
+'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:41:32; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:38:17'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'B'		,	'B07'		,	'B0729'		,	'B072927'		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'4월 9일 사이버 상담(18:29) 관련하여 
+특정인원에 대한 처벌을 원하고 있는 병사에게 도움을 주기 위해
+부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 여부를 
+살펴보기 위해 사실 확인 요청.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 알려주겠다고 함.
+병사의 고통을 조금이나마 해소하고 사례의 입체적 관리를 위해 
+지속적으로 협조해주실 것을 부탁드림.
+'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:41:47; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:38:17'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'C'		,	''		,	''		,	'F'		,	''		,	''		,	''		,	''		,	'P02'		,	'P025'		,	'P025K'		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'4월 9일 사이버 상담(18:29) 관련하여 
+특정인원에 대한 처벌을 원하고 있는 병사에게 도움을 주기 위해
+부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 여부를 
+살펴보기 위해 사실 확인 요청.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 알려주겠다고 함.
+병사의 고통을 조금이나마 해소하고 사례의 입체적 관리를 위해 
+지속적으로 협조해주실 것을 부탁드림.
+'		,	''		,	'ㅍ'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:42:01; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:38:17'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'A'		,	''		,	''		,	'F'		,	''		,	''		,	''		,	''		,	'P09'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'4월 9일 사이버 상담(18:29) 관련하여 
+특정인원에 대한 처벌을 원하고 있는 병사에게 도움을 주기 위해
+부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 여부를 
+살펴보기 위해 사실 확인 요청.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 알려주겠다고 함.
+병사의 고통을 조금이나마 해소하고 사례의 입체적 관리를 위해 
+지속적으로 협조해주실 것을 부탁드림.
+'		,	''		,	'ㅍ'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:42:55; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:38:17'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'A'		,	''		,	''		,	'C'		,	'C03'		,	'C0307'		,	''		,	''		,	'P09'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'4월 9일 사이버 상담(18:29) 관련하여 
+특정인원에 대한 처벌을 원하고 있는 병사에게 도움을 주기 위해
+부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 여부를 
+살펴보기 위해 사실 확인 요청.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 알려주겠다고 함.
+병사의 고통을 조금이나마 해소하고 사례의 입체적 관리를 위해 
+지속적으로 협조해주실 것을 부탁드림.
+'		,	''		,	'ㅍ'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040197'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())
+2012-04-10 오후 5:47:31; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY_OB (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2012040011'		,	'2012-04-10'		,	'2012-04-10 17:38:17'		,	'1'		,	'N'		,	'2012040130'		,	'8사단 50포병대대 본부 포대 대대장'		,	''		,	''		,	'080-00'		,	'1'		,	''		,	'A'		,	''		,	''		,	'H'		,	''		,	''		,	''		,	''		,	'P09'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'Q'		,	''		,	'4월 9일 사이버 상담(18:29) 관련하여 
+특정인원에 대한 처벌을 원하고 있는 병사에게 도움을 주기 위해
+부대진단 등의 조치가 이뤄질 수있도록 정보를 제공함. 
+또한 피해자 병사의 말대로 이전 부대 안에서 언어폭력 및 가혹행위로 인한
+복무 부적응의 어려움을 지휘관에게 호소한 사례가 있었는지의 여부를 
+살펴보기 위해 사실 확인 요청.
+이에 해부대 지휘관은 이후 처리결과에 대해 살펴보고 알려주겠다고 함.
+병사의 고통을 조금이나마 해소하고 사례의 입체적 관리를 위해 
+지속적으로 협조해주실 것을 부탁드림.
+'		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	''		,	'00:03:50'		,	'230'		,	''		,	'2012040202'		,	'2'		,	''		,	'life20'		,	GETDATE()		,	'life20'		,	GETDATE())

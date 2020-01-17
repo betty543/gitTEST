@@ -1,0 +1,50 @@
+This is First Line
+2013-08-15 오전 5:15:12; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2013080573'		,	'2013-08-15'		,	'2013-08-15 02:20:33'		,	'1'		,	'N'		,	'2013080437'		,	'미상(닉네임: 육군 상병 2호봉ㅋ)'		,	''		,	''		,	''		,	'1'		,	'CYBER'		,	'A'		,	''		,	''		,	'B'		,	'B08'		,	''		,	''		,	''		,	'P01'		,	'P01E'		,	''		,	'E'		,	'O11'		,	'O11G'		,	'Q03'		,	'Q03A'		,	'C'		,	'R01'		,	''		,	'[제목 : [기타]  전출가고 싶은데 방법좀... /IP 18.17.1.21/공개상담실/2013.08.15 02:20:33]
+
+저는 지금 기록통신병인데 육군본부 기록통신병으로 전출가고 싶습니다 
+진지하게 고민하고 생각하고 정말 가고 싶은데 방법이 없나요? 
+있다면 알려주세요 
+'		,	'[2013.08.15 05:12:29  ]
+병사님~ 
+반갑습니다. 
+‘생명의 전화’ 상담관입니다. 
+
+힘들고 어려운 이, 일병시절을 다 보내고 
+상병이 된 지금 전출을 진지하게 고민하고 계시군요. 
+
+어떠한 사유로 그토록 간절하게 육군본부로 전출을 가고자 하는지 
+구체적인 표현이 없어 알 수 없으나 
+전출에 관한 문제는 전적으로 
+병사님이 소속한 소속부대 지휘관의 지휘권한에 속하는 것으로 
+상담관이 답변하기에는 제한이 됨을 양해해 주시기 바랍니다. 
+
+용기를 내어 지휘관 면담을 통해 
+병사님이 직접 호소하시고 도움을 요청하는 것이 
+가장 긍정적이고 효율적인 방법이 될 것입니다. 
+
+지휘관 면담 시 
+왜 전출을 하고자 하는지를 
+구체적이고 설득력 있게 정리를 하신 후 
+침착하고 조리 있게 잘 표현해 보시기 바랍니다. 
+
+이런 일련의 모든 과정에서 
+어려움이 있거나 도움이 필요하다면 
+언제든지 다시 방문하시어 함께 나누면 
+최선을 다해 도와드리겠습니다. 
+
+아무쪼록 
+병사님이 원하는 일들이 잘 해결되길 소망하고 
+무더운 날씨에 건강 유의하시길 바라며 
+병사님을 
+사랑하고 축복합니다. 
+
+
+
+[국방 헬프콜 SOS 1303 - ‘생명의 전화’] 
+일반전화 : 국번없이 1303 
+: 080-007-0179(영원친구)/수신자 부담 
+군 전 화 : 990-1303 
+: 900-0179 
+
+
+- ‘생명의 전화’ 상담관 -'		,	''		,	''		,	''		,	''		,	'C'		,	'A'		,	''		,	''		,	'00:00:00'		,	'0'		,	''		,	'2013080573'		,	'1'		,	''		,	'life07'		,	GETDATE()		,	'life07'		,	GETDATE())

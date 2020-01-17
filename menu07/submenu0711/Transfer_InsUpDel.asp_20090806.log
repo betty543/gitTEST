@@ -1,0 +1,3 @@
+This is First Line
+2009-08-06 오후 1:06:30; SQL2=update TB_TransferInfo Set DNIS ='6979',StartTime = '2045',EndTime = '2145',Transferno = '01050721832',mon = '0',tue = '0',wed = '0',thu = '1',fri = '0',sta = '0',sun = '0',holiday = '0',USEYN = '1',userid = ''  WHERE seqno = '5'
+2009-08-06 오후 1:06:56; SQL2=update TB_TransferInfo Set DNIS ='9191',StartTime = '2045',EndTime = '2145',Transferno = '01050721832',mon = '0',tue = '0',wed = '1',thu = '0',fri = '0',sta = '0',sun = '0',holiday = '0',USEYN = '0',userid = ''  WHERE seqno = '6'

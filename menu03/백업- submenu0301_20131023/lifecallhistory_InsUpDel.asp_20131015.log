@@ -1,0 +1,77 @@
+This is First Line
+2013-10-15 오후 5:42:24; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2013100603'		,	'2013-10-15'		,	'2013-10-15 15:30:59'		,	'1'		,	'N'		,	'2013100423'		,	''ㅅ' '		,	''		,	''		,	''		,	'1'		,	'CYBER'		,	'A'		,	''		,	''		,	'A'		,	'A50'		,	''		,	''		,	''		,	'P01'		,	'P01F'		,	''		,	'E'		,	'O23'		,	'O23A'		,	'Q03'		,	'Q03A'		,	'C'		,	'R01'		,	''		,	'제목 : [복무부적응]  몸무게 //IP 1.1.189.41 //공개상담실//일 자 2013.10.15 15:30:59 //
+
+제가 입대하기 반년전 170cm/55kg 였습니다. 
+
+입대하기 반년사이에 65kg가 되었고 배만 엄청나게 나왔습니다ㅠㅠ 
+
+지금 172cm / 66kg 인데 보면 배만 엄청나게 튀어나온 상태입니다. 
+
+원래 먹는것도 별로 안먹다가 군대오기전에 놀다보니 식욕이 엄청 늘었습니다. 
+
+먹는양도 늘어나고 제가 행정병이라 부대에서 몸(힘)을 쓰는 일을 잘 안합니다. 
+
+운동은 주말에만 하는편이고 평일에는 같이 운동 할 사람이 없어서 주말에만 합니다. 
+
+적게먹고 운동해야하는데 그게 또 안됩니다ㅠㅠ 배 나온것땜에 너무 고민입니다. 
+
+어떻게 해야할까요ㅠㅠ 
+'		,	'병사님 안녕하세요. 
+국군 생명의 전화 상담관입니다. 
+보내주신 글 잘 읽었습니다. 
+
+그 사이에 2cm가 자라서 좋으시겠어요. 
+172 cm의 키에 66 kg의 몸무게라면
+적당한 체격이라 상담관은 생각되는데
+병사님 생각에는 배 살이 많은 것 같아 고민이 되시나 봅니다. 
+
+행정병이셔서 몸 쓸 일이 적지만 
+그래도 본인의 뱃살을 위해 주말에 운동을 하시는
+병사님은 의지력이 있으신 분임에 틀림없다 생각됩니다. 
+
+병사님
+예전 55 kg 시절의 본인 사진이나
+또는 멋지고 건강한 체형의 남자모델사진을
+관물대에 붙여 놓으시고 병사님의 실천력을 자극해 보시면 어떨까요?
+
+병사님의 건강한 모습을 기원하며
+국군 생명의 전화 상담관 드림.
+ '		,	''		,	''		,	''		,	''		,	'C'		,	'B'		,	''		,	''		,	'00:00:00'		,	'0'		,	''		,	'2013100603'		,	'1'		,	''		,	'life18'		,	GETDATE()		,	'life18'		,	GETDATE())
+2013-10-15 오후 5:42:58; ERROR_SQL= INSERT INTO TB_LIFECALLHISTORY (JUBSEQ	,	JUBDATE	,	JUBTIME	,	IOFLAG	,	EMERYN	,	CUSTNO	,	CUSTNAME	,	TELNO	,	TELNO2	,	CID	,	SEXGB	,	CHANNELGB	,	REQUESTERGB	,	CONSULTGB	,	CONSULTETCGB	,	SOSOKGB_A	,	SOSOKGB_B	,	SOSOKGB_C	,	SOSOKGB_D	,	SOSOKGB_E	,	LEVEL_B	,	LEVEL_C	,	LEVEL_D	,	FAMILYGB	,	CALLCLASS_B	,	CALLCLASS_C	,	CHANNELGB_B	,	CHANNELGB_C	,	CALLFLAG	,	CALLKIND_B	,	CALLKIND_C	,	QUESTION	,	REPLY	,	REMARK	,	RESULTGB	,	RESERVEDATE	,	RESERVETIME	,	PROCESSGB	,	WEATHER	,	CALLID	,	RECORDFILE	,	CALLTIMEDP	,	CALLTIME	,	CB_SEQ	,	REFERJUBSEQ	,	REFCNT	,	FILENAME	,	INCODE	,	INDATE	,	MOCODE 	,	MODATE )		VALUES ( '2013100603'		,	'2013-10-15'		,	'2013-10-15 15:30:59'		,	'1'		,	'N'		,	'2013100423'		,	'미상('ㅅ')'		,	''		,	''		,	''		,	'1'		,	'CYBER'		,	'A'		,	''		,	''		,	'A'		,	'A50'		,	''		,	''		,	''		,	'P01'		,	'P01F'		,	''		,	'E'		,	'O23'		,	'O23A'		,	'Q03'		,	'Q03A'		,	'C'		,	'R01'		,	''		,	'제목 : [복무부적응]  몸무게 //IP 1.1.189.41 //공개상담실//일 자 2013.10.15 15:30:59 //
+
+제가 입대하기 반년전 170cm/55kg 였습니다. 
+
+입대하기 반년사이에 65kg가 되었고 배만 엄청나게 나왔습니다ㅠㅠ 
+
+지금 172cm / 66kg 인데 보면 배만 엄청나게 튀어나온 상태입니다. 
+
+원래 먹는것도 별로 안먹다가 군대오기전에 놀다보니 식욕이 엄청 늘었습니다. 
+
+먹는양도 늘어나고 제가 행정병이라 부대에서 몸(힘)을 쓰는 일을 잘 안합니다. 
+
+운동은 주말에만 하는편이고 평일에는 같이 운동 할 사람이 없어서 주말에만 합니다. 
+
+적게먹고 운동해야하는데 그게 또 안됩니다ㅠㅠ 배 나온것땜에 너무 고민입니다. 
+
+어떻게 해야할까요ㅠㅠ 
+'		,	'병사님 안녕하세요. 
+국군 생명의 전화 상담관입니다. 
+보내주신 글 잘 읽었습니다. 
+
+그 사이에 2cm가 자라서 좋으시겠어요. 
+172 cm의 키에 66 kg의 몸무게라면
+적당한 체격이라 상담관은 생각되는데
+병사님 생각에는 배 살이 많은 것 같아 고민이 되시나 봅니다. 
+
+행정병이셔서 몸 쓸 일이 적지만 
+그래도 본인의 뱃살을 위해 주말에 운동을 하시는
+병사님은 의지력이 있으신 분임에 틀림없다 생각됩니다. 
+
+병사님
+예전 55 kg 시절의 본인 사진이나
+또는 멋지고 건강한 체형의 남자모델사진을
+관물대에 붙여 놓으시고 병사님의 실천력을 자극해 보시면 어떨까요?
+
+병사님의 건강한 모습을 기원하며
+국군 생명의 전화 상담관 드림.
+ '		,	''		,	''		,	''		,	''		,	'C'		,	'B'		,	''		,	''		,	'00:00:00'		,	'0'		,	''		,	'2013100603'		,	'1'		,	''		,	'life18'		,	GETDATE()		,	'life18'		,	GETDATE())
